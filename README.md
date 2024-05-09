@@ -8,4 +8,4 @@ S1 Teknik Telekomunikasi
 ```
 
 Loogbok Notes:
-- [09 Mei 2024](NOTES\09-05-2024.md "Catatan 09 Mei 2024") - LoRa dan LoRaWAN
+- [09 Mei 2024](NOTES/09-05-2024.md "Catatan 09 Mei 2024") - LoRa dan LoRaWAN
